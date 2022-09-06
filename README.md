@@ -9,15 +9,9 @@ Made With Flutter & Dart
 
 
 ## Screenshots
-<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/1.jpg">  .
-<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/2.jpg">  .
-<img width="300" src="https://github.com/Justin-roy/flutter_google_admob/blob/main/ss/3.jpg">  
-
-
-## Video
-
-
-https://user-images.githubusercontent.com/69432186/188575316-f2d5ca9e-be6d-428d-a8ae-a0845477447d.mp4
+<img width="300" src="https://github.com/Justin-roy/flutter_razor_pay/blob/main/ss/1.jpg">  .
+<img width="300" src="https://github.com/Justin-roy/flutter_razor_pay/blob/main/ss/2.jpg">  .
+<img width="300" src="https://github.com/Justin-roy/flutter_razor_pay/blob/main/ss/3.jpg">  
 
 
 
